@@ -1,0 +1,25 @@
+#pragma once
+
+#include <stdeasy/atto>
+#include <stdeasy/centi>
+#include <stdeasy/deca>
+#include <stdeasy/deci>
+#include <stdeasy/exa>
+#include <stdeasy/femto>
+#include <stdeasy/giga>
+#include <stdeasy/hecto>
+#include <stdeasy/intmax_t>
+#include <stdeasy/kilo>
+#include <stdeasy/mega>
+#include <stdeasy/micro>
+#include <stdeasy/milli>
+#include <stdeasy/nano>
+#include <stdeasy/peta>
+#include <stdeasy/pico>
+#include <stdeasy/ratio_equal>
+#include <stdeasy/ratio_greater>
+#include <stdeasy/ratio_greater_equal>
+#include <stdeasy/ratio_less>
+#include <stdeasy/ratio_less_equal>
+#include <stdeasy/ratio_not_equal>
+#include <stdeasy/tera>

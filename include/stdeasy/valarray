@@ -1,0 +1,11 @@
+#pragma once
+
+#include "valarray_headers/valarray"
+
+#include "slice"
+#include "gslice"
+
+#include "slice_array"
+#include "gslice_array"
+#include "mask_array"
+#include "indirect_array"

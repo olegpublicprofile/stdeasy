@@ -1,0 +1,33 @@
+#pragma once
+
+#include "locale_headers/locale"
+#include "wstring_convert"
+#include "wbuffer_convert"
+#include "ctype_base"
+#include "ctype"
+#include "codecvt_base"
+#include "codecvt_byname"
+
+#include "num_get"
+#include "num_put"
+
+#include "numpunct"
+#include "numpunct_byname"
+
+#include "collate"
+
+#include "time_base"
+#include "time_get"
+#include "time_get_byname"
+#include "time_put"
+
+#include "money_base"
+#include "money_get"
+#include "money_put"
+
+#include "moneypunct"
+#include "moneypunct_byname"
+
+#include "messages_base"
+#include "messages"
+#include "messages_byname"

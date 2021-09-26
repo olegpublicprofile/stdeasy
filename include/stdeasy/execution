@@ -1,0 +1,6 @@
+#pragma once
+
+#include "parallel_policy"
+#include "parallel_unsequenced_policy"
+#include "sequenced_policy"
+#include "unsequenced_policy"

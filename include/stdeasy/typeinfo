@@ -1,0 +1,6 @@
+#pragma once
+
+#include "type_info"
+
+#include "bad_cast"
+#include "bad_typeid"

@@ -1,0 +1,27 @@
+#pragma once
+
+#include <stdeasy/bad_function_call>
+#include <stdeasy/bit_and>
+#include <stdeasy/bit_not>
+#include <stdeasy/bit_or>
+#include <stdeasy/bit_xor>
+#include <stdeasy/divides>
+#include <stdeasy/equal_to>
+#include <stdeasy/function>
+#include <stdeasy/greater>
+#include <stdeasy/greater_equal>
+#include <stdeasy/hash>
+#include <stdeasy/is_bind_expression>
+#include <stdeasy/is_placeholder>
+#include <stdeasy/less>
+#include <stdeasy/less_equal>
+#include <stdeasy/logical_and>
+#include <stdeasy/logical_not>
+#include <stdeasy/logical_or>
+#include <stdeasy/minus>
+#include <stdeasy/modulus>
+#include <stdeasy/multiplies>
+#include <stdeasy/negate>
+#include <stdeasy/not_equal_to>
+#include <stdeasy/plus>
+#include <stdeasy/reference_wrapper>

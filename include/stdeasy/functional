@@ -1,0 +1,35 @@
+#pragma once
+
+#include "function"
+#include "reference_wrapper"
+
+#include "equal_to"
+#include "not_equal_to"
+
+#include "greater"
+#include "less"
+#include "greater_equal"
+#include "less_equal"
+
+#include "plus"
+#include "minus"
+#include "multiplies"
+#include "divides"
+#include "modulus"
+#include "negate"
+
+#include "logical_and"
+#include "logical_or"
+#include "logical_not"
+
+#include "bit_and"
+#include "bit_or"
+#include "bit_xor"
+#include "bit_not"
+
+#include "is_bind_expression"
+#include "is_placeholder"
+
+#include "bad_function_call"
+
+#include "hash"

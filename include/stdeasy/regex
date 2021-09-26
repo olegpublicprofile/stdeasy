@@ -1,0 +1,19 @@
+#pragma once
+
+#include "stdfwd_details.hpp"
+
+#include "basic_regex"
+#include "regex_error"
+#include "sub_match"
+#include "regex_traits"
+#include "match_results"
+#include "regex_iterator"
+#include "regex_token_iterator"
+
+#include "csub_match"
+#include "wcsub_match"
+
+#include "regex_headers/regex"
+#include "wregex"
+#include "cmatch"
+#include "wcmatch"

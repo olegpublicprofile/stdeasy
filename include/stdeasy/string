@@ -1,0 +1,11 @@
+#pragma once
+
+#include "string_headers/string"
+
+#include "char_traits"
+#include "basic_string"
+#include "wstring"
+
+#include "u8string"
+#include "u16string"
+#include "u32string"

@@ -1,0 +1,6 @@
+#pragma once
+
+#include "bad_alloc"
+#include "bad_array_new_length"
+#include "nothrow_t"
+#include "align_val_t"

@@ -1,0 +1,18 @@
+#pragma once
+
+#include "allocator"
+#include "pointer_traits"
+#include "pointer_safety"
+#include "allocator_traits"
+#include "allocator_arg_t"
+#include "uses_allocator"
+#include "raw_storage_iterator"
+
+#include "default_delete"
+
+#include "unique_ptr"
+#include "shared_ptr"
+#include "weak_ptr"
+#include "auto_ptr"
+#include "enable_shared_from_this"
+#include "bad_weak_ptr"

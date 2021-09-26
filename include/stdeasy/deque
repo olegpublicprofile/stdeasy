@@ -1,0 +1,23 @@
+#pragma once
+
+#include "stdfwd_details.hpp"
+
+#include "allocator"
+
+//------------------------------------------------------------------------------
+
+STDFWD_STD_BEGIN
+
+	template< class T, class Allocator > class deque;
+
+STDFWD_STD_END
+
+//------------------------------------------------------------------------------
+
+namespace stdfwd
+{
+	template< class T, class Allocator = std::allocator< T > >
+	using deque = std::deque< T, Allocator >;
+}
+
+//------------------------------------------------------------------------------

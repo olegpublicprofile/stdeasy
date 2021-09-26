@@ -1,0 +1,27 @@
+#pragma once
+
+#include "ration_headers/ratio"
+
+#include "ratio_equal"
+#include "ratio_not_equal"
+#include "ratio_less"
+#include "ratio_less_equal"
+#include "ratio_greater"
+#include "ratio_greater_equal"
+
+#include "atto"
+#include "femto"
+#include "pico"
+#include "nano"
+#include "micro"
+#include "milli"
+#include "centi"
+#include "deci"
+#include "deca"
+#include "hecto"
+#include "kilo"
+#include "mega"
+#include "giga"
+#include "tera"
+#include "peta"
+#include "exa"

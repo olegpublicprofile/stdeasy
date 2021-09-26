@@ -1,0 +1,8 @@
+#pragma once
+
+#include "variant_headers/variant"
+
+#include "variant_size"
+#include "variant_alternative"
+#include "monostate"
+#include "bad_variant_access"

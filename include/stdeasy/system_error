@@ -1,0 +1,10 @@
+#pragma once
+
+#include "system_error_headers/system_error"
+
+#include "error_category"
+#include "error_code"
+#include "error_condition"
+#include "is_error_code_enum"
+#include "is_error_condition_enum"
+#include "errc"
